@@ -6,12 +6,12 @@ A data scientist and a seasoned Chess player with a background in Electronics an
 
 | Section | Description |
 |---------|-------------|
-| [Background](#📚-background) | Learn more about my journey and experiences |
-| [Projects](#📂-projects) | Explore some of the projects I've worked on |
-| [Skills](#🛠️-skills) | See the technologies and tools I use |
-| [Certifications](#🎓-certifications) | Here are my certifications from top organizations |
-| [Learning](#🌱-currently-learning) | Everlasting Learning!! |
-| [Fun facts about me](#✨-fun-facts) | See the stuff  I do outside work! |
+| [Background](#-background) | Learn more about my journey and experiences |
+| [Projects](#-projects) | Explore some of the projects I've worked on |
+| [Skills](#-skills) | See the technologies and tools I use |
+| [Certifications](#-certifications) | Here are my certifications from top organizations |
+| [Learning](#-currently-learning) | Everlasting Learning!! |
+| [Fun facts about me](#-fun-facts) | See the stuff  I do outside work! |
 
 ## **📚 Background**
 I've been playing chess since I was 5 years old. I spent years studying the game, honing my skills, and competing in tournaments. However, as I entered my teenage years, I set aside my chessboard to focus on completing my engineering degree.
