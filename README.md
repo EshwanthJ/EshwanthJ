@@ -8,7 +8,7 @@ A data scientist and a seasoned Chess player with a background in Electronics an
 |---------|-------------|
 | [Background](#-background) | Learn more about my journey and experiences |
 | [Projects](#-projects) | Explore some of the projects I've worked on |
-| [Skills](#-skills) | See the technologies and tools I use |
+| [Skills](#🛠-skills) | See the technologies and tools I use |
 | [Certifications](#-certifications) | Here are my certifications from top organizations |
 | [Learning](#-currently-learning) | Everlasting Learning!! |
 | [Fun facts about me](#-fun-facts) | See the stuff  I do outside work! |
