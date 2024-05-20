@@ -4,7 +4,11 @@ Data enthusiast | Honed Strategist | Software Engineer | Navigating through the 
 
 ---
 
-| [Background](#background) | Learn more about my journey and experiences |
+### 📜 Table of Contents
+
+| Section | Description |
+|---------|-------------|
+| [Background](#background) | Learn more about me |
 | [Skills](#skills) | See the technologies and tools I use |
 | [Projects](#projects) | Explore some of the projects I've worked on |
 
