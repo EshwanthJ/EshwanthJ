@@ -1,6 +1,6 @@
 # Hi there, I'm Eshwanth 👋
 
-A data scientist and a seasoned Chess player with a background in Electronics and Instrumentation engineering, I bring my analytical acumen, problem-solving capabilities, and attention to detail. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science.
+A data scientist and a seasoned Chess player with a background in Electronics and Instrumentation engineering, I bring my analytical acumen, problem-solving capabilities, and attention to detail to the realm of data. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science and analytics.
 
 ## **📜 Table of Contents**
 
