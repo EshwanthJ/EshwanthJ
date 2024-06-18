@@ -71,16 +71,16 @@ I landed a job at Time2Chess, a startup, which required an extensive knowledge o
 
 | Certification | Issuer |
 |---------------|--------|
+| Data Analyst Professional | IBM |
 | Databases and SQL for Data Science with Python (with Honors) | IBM |
 | Python for Data Science, AI & Development | IBM |
-| Career Essentials in Data analysis | Microsoft |
 | Crash Course on Python | Google |
 | Data Visualization | freeCodeCamp |
 | JavaScript Algorithms and Data Structures | freeCodeCamp |
 | Responsive Web Design | freeCodeCamp |
 
 ## **🌱 Currently Learning**
-
+- Statistics for Data Science with Python
 - Machine Learning with Python
 - AZ - 900
 
