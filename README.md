@@ -29,12 +29,6 @@ I landed a job at Time2Chess, a startup, which required an extensive knowledge o
 
 ## **🛠️ Skills**
 
-#### **Languages**
-| Python3 | JS |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-
-
 #### **📊 Data Analysis**
 
 [![Data Visualization](https://img.shields.io/badge/Data_Visualization-Advanced-green)]()
