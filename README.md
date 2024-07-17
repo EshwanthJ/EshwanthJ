@@ -1,6 +1,6 @@
 # Hi there, I'm Eshwanth 👋
 
-A data scientist and a seasoned Chess player with a background in Electronics and Instrumentation engineering, I bring my analytical acumen, problem-solving capabilities, and attention to detail to the realm of data. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science and analytics.
+An IBM Certified Date professional and a seasoned Chess player with a background in engineering,administration, and retail, I bring my analytical acumen, problem-solving capabilities, and attention to detail to the realm of data. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science and analytics.
 
 ## **📜 Table of Contents**
 
@@ -18,9 +18,9 @@ I've been playing chess since I was 5 years old. I spent years studying the game
 
 After graduation, I began working as a Chess instructor at NMCA/KCT, where I was tasked to help make the city of Coimbatore a bigger hub for chess. My work involved creating reports of tournaments, finding out the best time to conduct tournaments, chess events and also to help budding talents develop their game. Here is where I also discovered my love for programming, I needed to update content in the website blogs regularly and I wanted to do it without any help from the developers. One thing led to another and I was soon adept at HTML, CSS and was loving solving problems with Javascript. Being around the game reignited my own passion, and I also started playing again, eager to put my skills to the test. But just as I was getting back into the swing of things, the COVID-19 pandemic hit.
 
-Although I wasnt able to play chess in person, I still continued to explore the software industry. I was fascinated by how it allowed me to solve complex problems and build new things from scratch.
+Although I wasn't able to play chess in person, I still continued to explore the software industry. I was fascinated by how it allowed me to solve complex problems and build new things from scratch.
 
-I landed a job at Time2Chess, a startup, which required an extensive knowledge of Chess, operations and programming. I created the landing website, tools, and platforms. My work at Time2Chess sparked my interest in data analysis, which led me to pursue a career in data science. 
+I landed a job at Time2Chess, a startup, which required an extensive knowledge of Chess, operations, data and programming. I created the landing website, tools, and platforms. My work at Time2Chess sparked my interest in data analysis, which led me to pursue a career in data. 
 
 ## **📂 Projects**
 - **[Tech skill stacks in demand](https://github.com/EshwanthJ/IBM-Data-Analyst-Capstone-Project)**: Conducted a comprehensive data analytics project analyzing global IT sector trends using data from Stack Overflow and IBM. Performed data cleaning, exploratory data analysis, and created visualizations to identify key trends in programming languages and database usage. Key findings indicated the dominance of JavaScript and the rising demand for PostgreSQL. Provided actionable recommendations for skill development and diversity initiatives based on demographic analysis of IT professionals.
@@ -80,8 +80,7 @@ I landed a job at Time2Chess, a startup, which required an extensive knowledge o
 | Responsive Web Design | freeCodeCamp |
 
 ## **🌱 Currently Learning**
-- Statistics for Data Science with Python
-- Machine Learning with Python
+- Generative AI
 - AZ - 900
 
 ## **✨ Fun Facts**
