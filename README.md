@@ -71,17 +71,16 @@ I landed a job at Time2Chess, a startup, which required an extensive knowledge o
 
 | Certification | Issuer |
 |---------------|--------|
+| Data Science Professional | IBM |
 | Data Analyst Professional | IBM |
-| Databases and SQL for Data Science with Python (with Honors) | IBM |
-| Python for Data Science, AI & Development | IBM |
 | Crash Course on Python | Google |
 | Data Visualization | freeCodeCamp |
 | JavaScript Algorithms and Data Structures | freeCodeCamp |
 | Responsive Web Design | freeCodeCamp |
 
 ## **🌱 Currently Learning**
-- Generative AI
 - AZ - 900
+- DP - 900
 
 ## **✨ Fun Facts**
 
