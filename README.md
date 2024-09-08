@@ -1,6 +1,6 @@
 # Hi there, I'm Eshwanth 👋
 
-A data scientist and a seasoned Chess player with a background in Electronics and Instrumentation engineering, I bring my analytical acumen, problem-solving capabilities, and attention to detail to the realm of data. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science and analytics.
+An IBM Certified Date professional and a seasoned Chess player with a background in engineering,administration, and retail, I bring my analytical acumen, problem-solving capabilities, and attention to detail to the realm of data. My enthusiasm and years of professional chess playing have further refined my strategic thinking and adeptness at navigating intricate challenges. My objective is to utilize technology and data-driven insights to innovate and influence the landscape of analytics-driven decision-making, striving to make meaningful contributions to the field of data science and analytics.
 
 ## **📜 Table of Contents**
 
@@ -18,12 +18,6 @@ A data scientist and a seasoned Chess player with a background in Electronics an
 - **[Global Power Plants](https://github.com/EshwanthJ/global_power_plants)**: This project involves an in-depth analysis of global power generation capacity. The process begins with data preparation, including cleaning and combining dataframes, creating columns for rank and plant information, and setting up dataframes for capacity and fuel, along with a color palette for primary fuel types. The exploratory data analysis covers power generation capacity by country and sub-regions, as well as cumulative percentages for capacity and primary fuel. Finally, the project features world maps highlighting power generation in China, the USA, and India.
 
 ## **🛠️ Skills**
-
-#### **Languages**
-| Python3 | JS |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-
 
 #### **📊 Data Analysis**
 
@@ -67,18 +61,16 @@ A data scientist and a seasoned Chess player with a background in Electronics an
 
 | Certification | Issuer |
 |---------------|--------|
+| Data Science Professional | IBM |
 | Data Analyst Professional | IBM |
-| Databases and SQL for Data Science with Python (with Honors) | IBM |
-| Python for Data Science, AI & Development | IBM |
 | Crash Course on Python | Google |
 | Data Visualization | freeCodeCamp |
 | JavaScript Algorithms and Data Structures | freeCodeCamp |
 | Responsive Web Design | freeCodeCamp |
 
 ## **🌱 Currently Learning**
-- Statistics for Data Science with Python
-- Machine Learning with Python
 - AZ - 900
+- DP - 900
 
 ## **✨ Fun Facts**
 
