@@ -6,21 +6,11 @@ A data scientist and a seasoned Chess player with a background in Electronics an
 
 | Section | Description |
 |---------|-------------|
-| [Background](#-background) | Learn more about my journey and experiences |
 | [Projects](#-projects) | Explore some of the projects I've worked on |
 | [Skills](#🛠️-skills) | See the technologies and tools I use |
 | [Certifications](#-certifications) | Here are my certifications from top organizations |
 | [Learning](#-currently-learning) | Everlasting Learning!! |
 | [Fun facts about me](#-fun-facts) | See the stuff  I do outside work! |
-
-## **📚 Background**
-I've been playing chess since I was 5 years old. I spent years studying the game, honing my skills, and competing in tournaments. However, as I entered my teenage years, I set aside my chessboard to focus on completing my engineering degree.
-
-After graduation, I began working as a Chess instructor at NMCA/KCT, where I was tasked to help make the city of Coimbatore a bigger hub for chess. My work involved creating reports of tournaments, finding out the best time to conduct tournaments, chess events and also to help budding talents develop their game. Here is where I also discovered my love for programming, I needed to update content in the website blogs regularly and I wanted to do it without any help from the developers. One thing led to another and I was soon adept at HTML, CSS and was loving solving problems with Javascript. Being around the game reignited my own passion, and I also started playing again, eager to put my skills to the test. But just as I was getting back into the swing of things, the COVID-19 pandemic hit.
-
-Although I wasnt able to play chess in person, I still continued to explore the software industry. I was fascinated by how it allowed me to solve complex problems and build new things from scratch.
-
-I landed a job at Time2Chess, a startup, which required an extensive knowledge of Chess, operations and programming. I created the landing website, tools, and platforms. My work at Time2Chess sparked my interest in data analysis, which led me to pursue a career in data science. 
 
 ## **📂 Projects**
 - **[Tech skill stacks in demand](https://github.com/EshwanthJ/IBM-Data-Analyst-Capstone-Project)**: Conducted a comprehensive data analytics project analyzing global IT sector trends using data from Stack Overflow and IBM. Performed data cleaning, exploratory data analysis, and created visualizations to identify key trends in programming languages and database usage. Key findings indicated the dominance of JavaScript and the rising demand for PostgreSQL. Provided actionable recommendations for skill development and diversity initiatives based on demographic analysis of IT professionals.
